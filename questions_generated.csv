@@ -1,0 +1,854 @@
+ID,Query
+1.0,What is the insurer response?
+2.0,What is the comment?
+3.0,What is the price quoted (premium + fees)?
+4.0,What is the insurer fees?
+5.0,What is the covermatch?
+6.0,What is the quotey value score?
+7.0,What is the accounts receivable?
+8.0,What is the arson reward?
+9.0,What is the bailees customer form?
+10.0,What is the building bylaws?
+11.0,What is the brands and labels?
+12.0,What is the building?
+13.0,What is the coverage type (building)?
+14.0,What is the building damage by theft?
+15.0,What is the business contents?
+16.0,What is the by-laws - additional time to rebuild?
+17.0,What is the catch-all clause?
+18.0,What is the coinsurance (building)?
+19.0,What is the coinsurance waiver?
+20.0,What is the condominium contingent?
+21.0,What is the condominium loss assessment - property?
+22.0,What is the consequential loss?
+23.0,What is the contents at newly acquired locations?
+24.0,What is the contents at unnamed locations?
+25.0,What is the coverage type (contents)?
+26.0,What is the contents of others?
+27.0,What is the contract penalty coverage?
+28.0,What is the contractor's equipment?
+29.0,What is the coinsurance (contractor's equipment)?
+30.0,What is the contractors equipment - fire department charges?
+31.0,What is the contractors equipment - loss of use?
+32.0,What is the contractor's equipment - single item maximum?
+33.0,What is the contractors equipment - sinking into muskeg or ice?
+34.0,What is the settlement method (contractor's equipment)?
+35.0,What is the conviction reward?
+36.0,What is the data coverage?
+37.0,What is the debris removal?
+38.0,What is the deductible (building)?
+39.0,What is the earthquake?
+40.0,What is the eco-friendly coverage enhancement?
+41.0,What is the computers and other electronic data processing equipment?
+42.0,What is the computers and other electronic data processing equipment - away from your regular premises?
+43.0,What is the equipment breakdown?
+44.0,What is the exhibition insurance?
+45.0,What is the expediting expenses?
+46.0,What is the exterior glass?
+47.0,What is the exterior signs?
+48.0,What is the extinguishing system warranty?
+49.0,What is the fine arts?
+50.0,What is the fire department charges?
+51.0,What is the fire suppression recharge?
+52.0,What is the flood?
+53.0,What is the deductible (flood)?
+54.0,"What is the growing plants, trees, shrubs (per item)?"
+55.0,What is the home office extension?
+56.0,What is the inflation protection?
+57.0,What is the installation form / floater?
+58.0,"What is the leased, rented or borrowed equipment?"
+59.0,What is the leasehold interest - rents?
+60.0,What is the master key coverage?
+61.0,What is the mortgage rate guarantee?
+62.0,What is the newly acquired buildings?
+63.0,What is the newly acquired business contents?
+64.0,What is the newly acquired equipment?
+65.0,What is the newly acquired locations?
+66.0,What is the off-premises service interruption?
+67.0,What is the parcel post?
+68.0,"What is the pavement, sidewalk and driveways?"
+69.0,What is the personal effects and property of employees and others?
+70.0,What is the pollution clean-up and removal (insured premises)?
+71.0,What is the preservation of property?
+72.0,What is the professional fees for proving a loss?
+73.0,What is the property off premises and in transit?
+74.0,What is the rental reimbursement?
+75.0,What is the property of every description (poed)?
+76.0,What is the settlement method (tools)?
+77.0,What is the retailers product impairment?
+78.0,What is the sales representative samples?
+79.0,What is the seasonal increase to business contents limit?
+80.0,What is the sewer backup?
+81.0,What is the stock?
+82.0,What is the stock spoilage?
+83.0,What is the tenants damage by vandalism exclusion?
+84.0,What is the tools aggregate limit?
+85.0,What is the tools single item limit?
+86.0,What is the coinsurance (tools)?
+87.0,What is the valuable papers and records?
+88.0,What is the water damage deductible?
+89.0,What is the work damage to stock?
+90.0,What is the absolute pollution exclusion endorsement?
+91.0,What is the products & completed operations?
+92.0,"What is the care, custody and control?"
+93.0,What is the bodily injury & property damage (cgl)?
+94.0,What is the condominium special assessment?
+95.0,What is the contingent wrap-up liability including diff in conditions?
+96.0,What is the contingent wrap-up liability including diff in deductibles?
+97.0,What is the contractors errors & omissions?
+98.0,What is the excess liability?
+99.0,"What is the damage from blasting, pile driving, removal or weakening of support?"
+100.0,What is the elevator and hoist collision?
+101.0,What is the employee benefits liability?
+102.0,What is the employer's liability?
+103.0,What is the failure to perform?
+104.0,What is the faulty workmanship?
+105.0,What is the forest and prairie fire fighting expense?
+106.0,What is the fungi and fungal derivatives?
+107.0,What is the general aggregate of liability?
+108.0,What is the umbrella liability?
+109.0,What is the wrap-up liability?
+110.0,What is the limitation of coverages to designated premises?
+111.0,What is the limited pollution liability?
+112.0,What is the medical expense per person?
+113.0,What is the non-owned auto - sef 94 - damage to hired autos?
+114.0,What is the non-owned auto - spf 6?
+115.0,What is the non-owned auto - oef 98b?
+116.0,What is the non-owned auto - sef 96 - contractual liability?
+117.0,What is the non-owned auto - sef 99 - excluding long term leased vehicles?
+118.0,What is the communicable disease exclusion?
+119.0,What is the personal & advertising injury?
+120.0,What is the deductible (bodily injury)?
+121.0,What is the riggers liability / hook coverage?
+122.0,What is the rip and tear?
+123.0,What is the tenant's legal liability?
+124.0,What is the voluntary property damage?
+125.0,What is the additional property damage exclusion?
+126.0,What is the extra expense?
+127.0,What is the contingent loss of income - neighbouring property?
+128.0,What is the rental income?
+129.0,What is the rental income - coverage type?
+130.0,What is the loss of earnings?
+131.0,What is the profits?
+132.0,What is the actual loss sustained?
+133.0,What is the computer fraud?
+134.0,What is the credit card forgery?
+135.0,What is the depositors forgery?
+136.0,What is the employee dishonesty?
+137.0,What is the forgery or alteration?
+138.0,What is the funds transfer fraud?
+139.0,What is the identity theft?
+140.0,What is the incoming cheque forgery?
+141.0,What is the kidnap and ransom?
+142.0,What is the loss inside the premises?
+143.0,What is the loss outside the premises?
+144.0,What is the medical expense from robbery?
+145.0,What is the money & securities?
+146.0,What is the money orders & counterfeit currency?
+147.0,What is the theft from custodian's home?
+148.0,What is the third party bond?
+149.0,What is the incident response costs?
+150.0,What is the legal and regulatory costs?
+151.0,What is the it security and forensic costs?
+152.0,What is the crisis communication costs?
+153.0,What is the privacy breach management costs?
+154.0,What is the third party privacy breach management costs?
+155.0,What is the post breach remediation costs?
+156.0,What is the funds transfer fraud & social engineering?
+157.0,What is the theft of funds held in escrow?
+158.0,What is the theft of personal funds?
+159.0,What is the cyber extortion?
+160.0,What is the corporate identity theft?
+161.0,What is the telephone hacking?
+162.0,What is the push payment fraud?
+163.0,What is the unauthorized use of computer resources?
+164.0,What is the system or data damage and rectification costs?
+165.0,What is the income loss and extra expense?
+166.0,What is the additional extra expense?
+167.0,What is the dependent business interruption?
+168.0,What is the consequential reputation harm?
+169.0,What is the claim preparation costs?
+170.0,What is the hardware replacement costs?
+171.0,What is the network security liability?
+172.0,What is the privacy liability?
+173.0,What is the management liability?
+174.0,What is the regulatory fines & penalties?
+175.0,"What is the pci fines, penalties and assessments?"
+176.0,What is the defamation?
+177.0,What is the intellectual property rights infringement?
+178.0,What is the court attendance costs?
+179.0,What is the bodily injury?
+180.0,What is the contract disputes and debt recovery?
+181.0,What is the employment disputes?
+182.0,What is the legal defence?
+183.0,What is the property protection?
+184.0,What is the statutory license protection?
+185.0,What is the tax protection?
+186.0,What is the unlimited legal assistance (helpline)?
+187.0,What is the free antivirus software?
+188.0,What is the errors & omissions (e&o)?
+189.0,What is the errors & omissions - aggregate limit?
+190.0,What is the e&o - basis of coverage?
+191.0,What is the deductible (e&o)?
+192.0,What is the defence costs in addition to limit?
+193.0,What is the first dollar defence coverage?
+194.0,What is the e&o retroactive date?
+195.0,What is the tenant's improvements?
+196.0,What is the territory of coverage?
+197.0,What is the territory of suit?
+198.0,What is the loss of documents?
+199.0,What is the libel & slander?
+200.0,What is the breach of copyright & intellectual property?
+201.0,What is the breach of confidence?
+202.0,What is the medical expenses - each occurrence?
+203.0,What is the interruption by civil authority?
+204.0,What is the deductible (earthquake)?
+205.0,What is the equipment?
+206.0,What is the premium quoted?
+207.0,What is the broker fees?
+208.0,What is the commission rate?
+209.0,What is the minimum retained premium?
+210.0,What is the quote expiry date?
+211.0,What is the quote reference?
+212.0,What is the settlement method (contents)?
+213.0,What is the contractor's equipment schedule required?
+214.0,What is the locked vehicle warranty?
+215.0,What is the welding warranty?
+216.0,What is the subcontractors warranty?
+217.0,What is the usa sales and operations exclusion?
+218.0,What is the exclusion of snow removal activities?
+219.0,What is the water damage deductible?
+220.0,What is the deductible (sewer backup)?
+221.0,What is the vandalism by tenants?
+222.0,What is the vandalism by tenants deductible?
+223.0,What is the cooking in rooms exclusion?
+224.0,What is the smoke detector warranty?
+225.0,What is the deductible (cyber)?
+226.0,What is the waiting period?
+227.0,What is the renorun?
+228.0,What is the exclusion of activities or work performed prior to the risk effective date of the policy?
+229.0,"What is the specified operation exclusion: plumbing, electricity, roofing work done by the insured themselves?"
+230.0,"What is the specified operation exclusion: plumbing, roofing work done by the insured themselves?"
+231.0,"What is the blasting, pile driving, weakness of support exclusion?"
+232.0,What is the underground working conditions?
+233.0,What is the removal and repair of products exclusion?
+234.0,What is the license required for application of pesticides?
+235.0,What is the anti-theft precautions?
+236.0,What is the pesticide / weed spraying exclusion?
+237.0,What is the liability for water damage deductible?
+238.0,What is the wrongful termination?
+239.0,What is the workplace torts?
+240.0,What is the discrimination (employment)?
+241.0,What is the discrimination (denial of access to members)?
+242.0,What is the employment practices liability deductible?
+243.0,What is the abuse liability?
+244.0,"What is the accident, heart attack & stroke?"
+245.0,What is the additional insured endorsement?
+246.0,What is the cyber incident exclusion?
+247.0,What is the laser / ipl equipment?
+248.0,What is the miscellaneous property floater?
+249.0,What is the martial arts studio endorsement?
+250.0,What is the hypnotherapy extension endorsement?
+251.0,What is the retroactive date endorsement?
+252.0,What is the medical malpractice liability (e&o)?
+253.0,"What is the freestanding fences, walls and courts?"
+254.0,What is the antennae and satellite dishes?
+255.0,What is the individual non-indemnified liability (side a)?
+256.0,What is the individual indemnified liability (side b)?
+257.0,What is the insured organization / entity indemnification (side c)?
+258.0,What is the deductible (side a)?
+259.0,What is the defence costs in excess of limits?
+260.0,What is the first dollar defence coverage?
+261.0,What is the automatic acquisition threshold?
+262.0,What is the outside directorship coverage?
+263.0,What is the territory of coverage?
+264.0,What is the broad form completed operations endorsement?
+265.0,What is the cyber approval required?
+266.0,What is the personal injury liability?
+267.0,What is the general liability basis of coverage?
+268.0,What is the umbrella liability aggregate?
+269.0,What is the excess liability aggregate?
+270.0,What is the directors & officers liability aggregate?
+271.0,What is the deferred payment plan stock?
+272.0,What is the mobile inventory management equipment?
+273.0,What is the moulds and patterns?
+274.0,What is the breakdown of refrigeration or heating equipment on vehicle?
+275.0,What is the computer data?
+276.0,What is the computer media?
+277.0,What is the condominium - common area contents?
+278.0,What is the condominium - common expense?
+279.0,What is the condominium - trustees fees?
+280.0,What is the condominium - property in custody?
+281.0,What is the confiscation or seizure of property?
+282.0,"What is the construction of additions, extensions, alterations or repairs?"
+283.0,What is the property in course of construction?
+284.0,What is the precious metals?
+285.0,"What is the property leased, rented or owned?"
+286.0,What is the warehouseman's legal liability?
+287.0,What is the property extension aggregate limit?
+288.0,What is the alarm warranty?
+289.0,What is the welding operations exclusion?
+290.0,What is the accident coverage?
+291.0,What is the replacement labour?
+292.0,What is the replacement labour deductible?
+293.0,What is the ordinary payroll?
+294.0,What is the indemnity period?
+295.0,What is the portable electronic equipment schedule required?
+296.0,What is the tobacco theft limitation?
+297.0,What is the prerecorded video limit?
+298.0,What is the flood approval required?
+299.0,What is the contingent employers liability?
+300.0,What is the service line failure?
+301.0,What is the cyber aggregate limit?
+302.0,What is the property in safe warranty?
+303.0,What is the failure to perform exclusion?
+304.0,What is the underground resources and equipment exclusion?
+305.0,What is the underground property damage deductible?
+306.0,What is the janitorial services bond?
+307.0,What is the equipment breakdown approval required?
+308.0,What is the settlement method (building)?
+309.0,What is the deductible (contents)?
+310.0,What is the coinsurance (contents)?
+311.0,What is the coverage type (contractor's equipment)?
+312.0,What is the deductible (contractor's equipment)?
+313.0,What is the deductible (tools)?
+314.0,What is the coverage type (tools)?
+315.0,What is the deductible (equipment breakdown)?
+316.0,What is the deductible (service line)?
+317.0,What is the deductible (crime)?
+318.0,What is the condominium owners improvements & betterments?
+319.0,What is the owners and contractors protective liability?
+320.0,What is the blanket contractual liability?
+321.0,What is the condominium loss assessment - liability?
+322.0,What is the deductible (property damage)?
+323.0,What is the settlement method (stock)?
+324.0,What is the spoilage (ebi)?
+325.0,What is the refrigeration & air conditioning (ebi)?
+326.0,What is the electronic equipment (ebi)?
+327.0,What is the business interruption (ebi)?
+328.0,What is the production machinery (ebi)?
+329.0,What is the abuse liability basis of coverage?
+330.0,What is the earthquake approval required?
+331.0,What is the professional liability exclusion?
+332.0,What is the emotional support assistance?
+333.0,What is the free human resources services assistance?
+334.0,What is the deductible (cyber crime)?
+335.0,What is the deductible (cyber breach response)?
+336.0,What is the deductible (network security & privacy liability)?
+337.0,What is the photographs required?
+338.0,What is the suppression system report required?
+339.0,What is the confirmation of duct cleaning required?
+340.0,What is the lost key?
+341.0,What is the deductible (employee benefits liability)?
+342.0,What is the deductible (sef94)?
+343.0,What is the deductible (installation floater)?
+344.0,What is the contingent loss of income - dependent property?
+345.0,What is the business income - professional fees?
+346.0,What is the druggists liability?
+347.0,What is the residential insurance warranty?
+348.0,What is the coverage type (builder's risk)?
+349.0,What is the settlement type (builder's risk)?
+350.0,What is the coinsurance (builder's risk)?
+351.0,What is the deductible (builder's risk)?
+352.0,What is the dark web scanning?
+353.0,What is the deep scanning?
+354.0,What is the it security advice?
+355.0,What is the employee awareness training?
+356.0,What is the mobile risk management app?
+357.0,What is the in-house cyber incident response?
+358.0,What is the dwelling?
+359.0,What is the coinsurance (dwelling)?
+360.0,What is the deductible (dwelling)?
+361.0,What is the coverage type (dwelling)?
+362.0,What is the settlement type (dwelling)?
+363.0,What is the guaranteed replacement cost?
+364.0,What is the single limit?
+365.0,What is the detached private structures?
+366.0,What is the coinsurance (detached private structures)?
+367.0,What is the deductible (detached private structures)?
+368.0,What is the coverage type (detached private structures)?
+369.0,What is the settlement type (detached private structures)?
+370.0,What is the personal contents?
+371.0,What is the coinsurance (personal contents)?
+372.0,What is the deductible (personal contents)?
+373.0,What is the coverage type (personal contents)?
+374.0,What is the settlement type (personal contents)?
+375.0,What is the landlord contents?
+376.0,What is the coinsurance (landlord contents)?
+377.0,What is the deductible (landlord contents)?
+378.0,What is the coverage type (landlord contents)?
+379.0,What is the settlement type (landlord contents)?
+380.0,What is the additional living expenses?
+381.0,What is the deductible (ale)?
+382.0,What is the home systems protection?
+383.0,"What is the bicycles, equipment, & accessories - includes electric bicycles ?"
+384.0,"What is the camera, projectors, film, accessories - personal use only ?"
+385.0,What is the cellular phones?
+386.0,What is the collections _x0096_ other _x0096_ not defined as works of art?
+387.0,What is the computers: business use?
+388.0,What is the computers: personal use only?
+389.0,What is the drones _x0096_ personal use only?
+390.0,What is the firearms & equipment?
+391.0,What is the golf carts?
+392.0,What is the hearing aids?
+393.0,"What is the jewellery, watches, furs ?"
+394.0,What is the musical instruments - personal use?
+395.0,What is the personal tack?
+396.0,What is the prosthetic limbs?
+397.0,What is the satellite dish _x0096_ not attached to dwelling?
+398.0,"What is the silverware, pewterware, goldware?"
+399.0,What is the sports equipment _x0096_ not bicycles?
+400.0,What is the stamp collections?
+401.0,"What is the vacation trailers, campers _x0096_ not livestock trailers with living quarters ?"
+402.0,What is the wheelchairs?
+403.0,What is the works of art excluding breakage?
+404.0,What is the works of art including breakage?
+405.0,What is the blanket farm machinery & equipment?
+406.0,What is the mobile farm machinery - limit per item?
+407.0,What is the machinery: dual valuation clause??
+408.0,What is the livestock - total?
+409.0,What is the livestock - limit per item?
+410.0,What is the minimum livestock clause??
+411.0,What is the livestock - transportation & entrapment coverage??
+412.0,What is the accounts receivable?
+413.0,"What is the atvs, farm utility vehicles - physical damage?"
+414.0,What is the brands and labels?
+415.0,What is the beekeepers?
+416.0,What is the commercial equipment?
+417.0,What is the consequential loss?
+418.0,What is the drones?
+419.0,What is the electronic scales?
+420.0,What is the extra expense?
+421.0,What is the farmprotect crime?
+422.0,What is the farm contents?
+423.0,What is the farm stock?
+424.0,What is the farm tools?
+425.0,"What is the farm tools, limit per item?"
+426.0,"What is the fencing, corrals, and paddocks?"
+427.0,What is the fertilizers and chemicals?
+428.0,What is the fire suppression recharge expense?
+429.0,What is the fire department charges?
+430.0,"What is the fodder, silage and threshed grain?"
+431.0,What is the fuel and fuel tanks _x0096_ including fertilizer tanks?
+432.0,What is the grain dryer?
+433.0,What is the grain _x0096_ standing?
+434.0,"What is the growing plants, trees, shrubs, and flowers?"
+435.0,What is the harvested farm produce?
+436.0,What is the heat prostration?
+437.0,"What is the horse trailers, livestock trailers?"
+438.0,What is the irrigation equipment?
+439.0,What is the mechanical/electrical breakdown _x0096_ farm livestock?
+440.0,What is the milk spoilage?
+441.0,What is the milk spoilage and contamination?
+442.0,What is the mobile farm machinery and equipment - loss of use?
+443.0,What is the professional fees?
+444.0,What is the refrigeration equipment?
+445.0,What is the rented mobile farm machinery and equipment?
+446.0,What is the semen and semen tank coverage?
+447.0,"What is the power poles, light poles?"
+448.0,What is the silo unloaders?
+449.0,What is the solar panels and equipment?
+450.0,What is the stable cleaners?
+451.0,What is the farm tack?
+452.0,What is the veterinarian supplies?
+453.0,What is the water systems?
+454.0,What is the hot plate warranty?
+455.0,What is the esa / electrical inspection report required?
+456.0,What is the deductible (rental income)?
+457.0,What is the coinsurance (rental income)?
+458.0,What is the personal liability?
+459.0,What is the media liability?
+460.0,What is the privacy legislation protection?
+461.0,What is the aggregate legal expense limit?
+462.0,What is the deductible (legal expenses)?
+463.0,What is the outdoor property?
+464.0,What is the stored water?
+465.0,What is the employee tools?
+466.0,What is the non-owned detached trailers?
+467.0,What is the radioactive contamination?
+468.0,What is the utility services - direct damage?
+469.0,What is the aterations and new buildings - delay in completion?
+470.0,What is the bylaws - increased indemnity period?
+471.0,What is the expenses to reduce loss?
+472.0,What is the newly acquired premises?
+473.0,What is the pollutant cleanup and removal?
+474.0,What is the transit business income?
+475.0,What is the contingent loss of income - undescribed premises?
+476.0,What is the contract penalties?
+477.0,What is the ingress or egress?
+478.0,What is the utility services - time element?
+479.0,What is the personal animals?
+480.0,What is the auto parts & accessories?
+481.0,What is the business property at home?
+482.0,What is the cemetary property & headstones?
+483.0,What is the conviction reward?
+484.0,What is the garden equipment?
+485.0,What is the household freezer contents?
+486.0,What is the money / bullion?
+487.0,What is the coin collections?
+488.0,What is the power scooters (aids)?
+489.0,What is the securities?
+490.0,What is the personal property of parent in a nursing home?
+491.0,What is the personal property of student away?
+492.0,What is the personal watercraft?
+493.0,What is the mass evacuation?
+494.0,What is the custom farming permission?
+495.0,What is the emergency entry expense?
+496.0,What is the good neighbor coverage?
+497.0,What is the livestock vandalism?
+498.0,What is the newly acquired livestock?
+499.0,What is the newly acquired or constructed farm buildings?
+500.0,What is the newly acquired or leased farm machinery and equipment?
+501.0,What is the non-owned livestock?
+502.0,What is the produce and packaging supplies?
+503.0,What is the property in custody of a common or contract carrier?
+504.0,What is the cross liability coverage?
+505.0,What is the machinery and equipment - limited waiver of depreciation?
+506.0,What is the livestock - roundup coverage?
+507.0,What is the working dog coverage?
+508.0,What is the livestock - work horses?
+509.0,What is the livestock - show horses?
+510.0,What is the livestock - poultry?
+511.0,What is the livestock - hogs?
+512.0,What is the livestock - dairy cattle?
+513.0,What is the livestock - beef cattle?
+514.0,What is the livestock - sheep / goats?
+515.0,What is the livestock - working farm dogs?
+516.0,What is the livestock - exotic and other farm animals?
+517.0,What is the livestock - coverage type?
+518.0,What is the livestock - transportation & entrapment coverage?
+519.0,What is the livestock coinsurance?
+520.0,What is the livestock deductible?
+521.0,What is the signs?
+522.0,What is the site diagram required?
+523.0,What is the replacement cost calculator required?
+524.0,What is the hail damage / dent exclusion?
+525.0,What is the deductible (atv physical damage)?
+526.0,What is the deductible (farm machinery)?
+527.0,What is the fire legal liability?
+528.0,What is the additional insured liability?
+529.0,What is the liability arising from unlicensed vehicles?
+530.0,What is the swimming pool liability?
+531.0,What is the horse boarding liability?
+532.0,What is the b&b liability?
+533.0,What is the atv highway exclusion?
+534.0,What is the building bylaws?
+535.0,What is the counterfeit money / credit cards?
+536.0,What is the fire department charges?
+537.0,What is the identity theft?
+538.0,What is the mass evacuation?
+539.0,What is the master key / lock repair or replacement?
+540.0,"What is the trees, shrubs & plants?"
+541.0,What is the inflation protection?
+542.0,What is the property temporarily removed?
+543.0,What is the property in transit?
+544.0,"What is the swimming pools damaged by weight of water, ice, snow, sleet?"
+545.0,What is the deductible (farm tools)?
+546.0,What is the deductible (fertilizers & chemicals)?
+547.0,What is the stored grain?
+548.0,What is the deductible (stored grain)?
+549.0,"What is the hay, straw and feed?"
+550.0,"What is the deductible (hay, straw and feed)?"
+551.0,What is the deductible (irrigation equipment)?
+552.0,What is the deductible (milk spoilage)?
+553.0,What is the deductible (machinery loss of use)?
+554.0,What is the sales representative samples?
+555.0,What is the exhibition floater?
+556.0,What is the valuable papers and records?
+557.0,What is the conviction reward?
+558.0,What is the pollution clean-up and removal (insured premises)?
+559.0,What is the produce and packaging supplies?
+560.0,What is the incident response: 24x7 cyber incident response line?
+561.0,What is the incident response: cyber incident manager & support?
+562.0,What is the incident response: legal advice?
+563.0,"What is the incident response: draft notification letters, websites, email notifications?"
+564.0,"What is the incident response: notify government, regulatory, professional body etc.?"
+565.0,What is the incident response: respond to any regulatory investigation?
+566.0,What is the incident response: defend any regulatory action?
+567.0,What is the it security consultation?
+568.0,What is the obtain initial remediation advice?
+569.0,What is the forensic system investigation?
+570.0,What is the contain & remove malware?
+571.0,What is the expert witness?
+572.0,What is the crisis communications consultation?
+573.0,What is the media purchasing?
+574.0,What is the notification to non-affected individuals?
+575.0,What is the coordinate media relations in response to event?
+576.0,What is the spokesperson training?
+577.0,What is the formulate a crisis communications plan?
+578.0,What is the costs of sending notices?
+579.0,What is the credit monitoring & id restoration costs?
+580.0,What is the call centre management costs?
+581.0,What is the translation costs?
+582.0,What is the costs of sending notices on behalf of third parties?
+583.0,What is the credit monitoring & id restoration costs on behalf of third parties?
+584.0,What is the call centre management costs on behalf of third parties?
+585.0,What is the translation costs on behalf of third parties?
+586.0,What is the post breach remediation costs?
+587.0,What is the unauthorized funds transfer?
+588.0,What is the theft of money or financial assets?
+589.0,What is the fraudulent transfer of tangible property?
+590.0,What is the phishing and social engineering?
+591.0,What is the theft of funds held in escrow?
+592.0,What is the theft of personal funds?
+593.0,What is the executive id theft?
+594.0,What is the ransomware and cyber extortion?
+595.0,What is the criminal rewards?
+596.0,What is the corporate identity theft?
+597.0,What is the telephone hacking?
+598.0,What is the notification costs - impersonation fraud?
+599.0,What is the impersonation fraud - third party reimbursement costs?
+600.0,What is the impersonation fraud - loss of income?
+601.0,What is the impersonation fraud liability?
+602.0,What is the impersonation fraud - external costs?
+603.0,What is the unauthorized use of computer resources?
+604.0,What is the digital asset restoration?
+605.0,What is the cyber business interruption - income loss?
+606.0,What is the cyber business interruption - extra expense?
+607.0,What is the cyber business interruption - mitigating expenses?
+608.0,What is the dependent business interruption - income loss?
+609.0,What is the dependent business interruption - extra expense?
+610.0,What is the dependent business interruption - hosted systems?
+611.0,What is the reputational harm?
+612.0,What is the claim preparation costs?
+613.0,What is the hardware replacement costs?
+614.0,What is the network security liability - malware?
+615.0,What is the network security liability - denial of service attack?
+616.0,What is the network security liability - failure to prevent unauthorized access to third party data?
+617.0,What is the network security liability - identity theft?
+618.0,What is the privacy liability?
+619.0,What is the management liability from cyber events?
+620.0,What is the regulatory fines?
+621.0,"What is the pci fines, penalties & assessments?"
+622.0,What is the defamation?
+623.0,What is the emotional distress?
+624.0,What is the violation of individual privacy rights?
+625.0,What is the ip rights infringement?
+626.0,What is the ip infringement - plagiarism?
+627.0,What is the ip infringement - acquired rights?
+628.0,What is the technology errors & omissions?
+629.0,What is the court attendance costs?
+630.0,What is the bodily injury and property damage - 1st party?
+631.0,What is the bodily injury and property damage - 3rd party?
+632.0,What is the pollution?
+633.0,What is the scheduled farm machinery & equipment?
+634.0,What is the dwelling glass?
+635.0,What is the deductible (dwelling glass)?
+636.0,"What is the deductible (jewellery, watches, furs)?"
+637.0,What is the building materials replacement cost?
+639.0,What is the financial loss coverage?
+640.0,What is the limited coveage for failure of product to work to meet written specifications?
+641.0,What is the penal defence costs coverage?
+642.0,What is the product recall expenses?
+643.0,What is the trademark infringement?
+644.0,What is the breach of fiduciary duty?
+645.0,"What is the consultants, subcontractors & agents?"
+646.0,What is the dishonesty?
+647.0,What is the external appointments?
+648.0,What is the court attendance costs (e&o)?
+649.0,What is the usa restriction?
+650.0,What is the automatic extended reporting period?
+651.0,What is the optional extended reporting period?
+855.0,What is the deep link reserve code?
+652.0,What is the faulty concrete batch exclusion?
+653.0,What is the overspraying warranty?
+654.0,What is the professional services exclusion?
+655.0,What is the deductible (side b)?
+656.0,What is the deductible (side c)?
+657.0,What is the investigation costs coverage?
+658.0,What is the additional limit of liability for executives?
+659.0,What is the fiduciary liability?
+660.0,What is the employed lawyer liability?
+661.0,What is the public relations coverage?
+662.0,What is the deductible (outside directorship)?
+663.0,What is the deductible (investigation costs)?
+664.0,What is the deductible (additional limit for executives)?
+665.0,What is the deductible (fiduciary liability)?
+666.0,What is the deductible (employed lawyer)?
+667.0,What is the deductible (public relations)?
+668.0,What is the third party coverage?
+669.0,What is the wage and hour law claims coverage?
+670.0,What is the employee theft?
+671.0,What is the client property?
+672.0,What is the deductible (employee theft)?
+673.0,What is the deductible (client property)?
+674.0,What is the crime - expenses?
+675.0,What is the deductible (crime - expenses)?
+676.0,What is the harrassment?
+677.0,What is the major shareholder exclusion?
+678.0,What is the excluded entity?
+679.0,What is the personal cyber protection?
+680.0,What is the specified operation exclusion?
+681.0,What is the accounting & financial planning exclusion?
+682.0,What is the investment consulting exclusion?
+683.0,What is the property management endorsement?
+684.0,What is the travel / tour operator exclusion?
+685.0,What is the paralegal endorsement?
+686.0,What is the placement agency exclustion?
+687.0,What is the verbal appraisal exclusion?
+688.0,What is the deductible (grain dryer)?
+689.0,What is the roof surface - basis of settlement endorsement?
+690.0,What is the cyber cover reinstatement?
+691.0,What is the cyber risk management platform?
+692.0,What is the breach of contract?
+693.0,What is the contingent bodily injury & property damage?
+694.0,What is the disciplinary hearings?
+695.0,What is the technology and software?
+696.0,What is the contents in storage?
+697.0,What is the pfas exclusion?
+698.0,What is the removed solid fuel heat exclusion?
+699.0,What is the surface water?
+700.0,What is the deductible (surface water)?
+5000.0,What is the life volume?
+5050.0,What is the life rate?
+5100.0,What is the life premium?
+5150.0,What is the life monthly premium?
+5200.0,What is the coverage type (life)?
+5250.0,What is the class description?
+5300.0,What is the coverage amount?
+5350.0,What is the maximum amount?
+5400.0,What is the non-evidence maximum?
+5450.0,What is the reduction schedule?
+5500.0,What is the termination age?
+5550.0,What is the waiver of premium?
+6000.0,What is the add volume?
+6050.0,What is the add rate?
+6100.0,What is the add premium?
+6105.0,What is the add monthly premium?
+6110.0,What is the same as basic life?
+6150.0,What is the add monthly premium?
+6200.0,What is the coverage type (add)?
+6250.0,What is the class description?
+6300.0,What is the coverage amount?
+6350.0,What is the maximum amount?
+6400.0,What is the non-evidence maximum?
+6450.0,What is the reduction schedule?
+6500.0,What is the termination age?
+7000.0,What is the lives (dependent)?
+7050.0,What is the dependent rate?
+7100.0,What is the dependent premium?
+7110.0,What is the dependent life monthly premium?
+7150.0,What is the spouse amount?
+7200.0,What is the child amount?
+7250.0,What is the from birth?
+8000.0,What is the healthcare lives single?
+8010.0,What is the healthcare lives family?
+8050.0,What is the healthcare rate single?
+8060.0,What is the healthcare rate family?
+8100.0,What is the healthcare monthly premium?
+8150.0,What is the healthcare premium single?
+8200.0,What is the healthcare premium family?
+8210.0,What is the overall coinsurance?
+8220.0,What is the lifetime max?
+8230.0,What is the single deductible (healthcare)?
+8240.0,What is the family deductible (healthcare)?
+8250.0,What is the apply to healthcare?
+8260.0,What is the pooling level?
+8270.0,What is the benefit category?
+8280.0,What is the virtual health services?
+8290.0,What is the hospital room?
+8300.0,What is the nursing?
+8310.0,What is the out of country?
+8320.0,What is the out of country pooling?
+8330.0,What is the hearing aids?
+8340.0,What is the speech aids?
+8350.0,What is the global medical assistance?
+8360.0,What is the teledoc medical experts?
+8370.0,What is the diagnostic services?
+8380.0,What is the compression hose?
+8390.0,What is the orthopedic shoes?
+8400.0,What is the foot orthotics?
+8410.0,What is the gender affirmation procedures?
+8420.0,What is the other standard medical supplies?
+8430.0,What is the paramedical coverage?
+8440.0,What is the chiropractor - coinsurance?
+8450.0,What is the chiropractor - max per visit?
+8460.0,What is the chiropractor - annual max?
+8470.0,What is the dietician- coinsurance?
+8480.0,What is the dietician - max per visit?
+8490.0,What is the dietician - annual max?
+8500.0,What is the phyiso - coinsurance?
+8510.0,What is the physio - max per visit?
+8520.0,What is the physio - annual max?
+8530.0,What is the podiatrist/chiropodist - coinsurance?
+8540.0,What is the podiatrist/chiropodist - max per visit?
+8550.0,What is the podiatrist/chiropodist- annual max?
+8560.0,What is the psychologist/social worker/psychotherapist/cousellor - coinsurance?
+8570.0,What is the psychologist/social worker/psychotherapist/cousellor - max per visit?
+8580.0,What is the psychologist/social worker/psychotherapist/cousellor - annual max?
+8590.0,What is the speech therapist - coinsurance?
+8600.0,What is the speech therapist - max per visit?
+8610.0,What is the speech therapist - annual max?
+8620.0,What is the osteopath - coinsurance?
+8630.0,What is the osteopath - max per visit?
+8640.0,What is the osteopath - annual max?
+8650.0,What is the naturopath - coinsurance?
+8660.0,What is the naturopath - max per visit?
+8670.0,What is the naturopath - annual max?
+8680.0,What is the massage therapist - coinsurance?
+8690.0,What is the massage therapist - max per visit?
+8700.0,What is the massage therapist - annual max?
+8710.0,What is the acupuncturist - coinsurance?
+8720.0,What is the acupuncturist - max per visit?
+8730.0,What is the acupuncturist - annual max?
+9000.0,What is the p drug plan lives single?
+9050.0,What is the p drug plan lives family?
+9100.0,What is the p drug plan rate single?
+9150.0,What is the p drug plan rate family?
+9200.0,What is the p drug plan monthly premium?
+9250.0,What is the p drug plan premium single?
+9300.0,What is the p drug plan premium family?
+9350.0,What is the base plan?
+9400.0,What is the plan type?
+9450.0,What is the coinsurance?
+9500.0,What is the per prescription deductible?
+9550.0,What is the dispensing fee limit?
+9600.0,What is the dispensing fee coinsurance?
+9650.0,What is the dispensing fee frequency limit?
+9700.0,What is the generic?
+9750.0,What is the optional drug vaccine?
+9800.0,What is the pdd preferred provider?
+9850.0,What is the plan option?
+9900.0,What is the per prescription deductible?
+9950.0,What is the cosinsurance?
+10000.0,What is the other plan features?
+10050.0,What is the drug maximum per individual?
+10100.0,What is the smart drug plan applies?
+10150.0,What is the coordination of benefits?
+10200.0,What is the visioncare lives single?
+10210.0,What is the visioncare lives family?
+10220.0,What is the visioncare rate single?
+10230.0,What is the visioncare rate family?
+10240.0,What is the visioncare monthly premium?
+10250.0,What is the visioncare premium single?
+10260.0,What is the visioncare premium family?
+10270.0,What is the single deuctible?
+10280.0,What is the family deductible?
+10290.0,What is the eye examination coinsurance?
+10300.0,What is the eye examination maximum: r & c?
+10310.0,What is the benefit period - adult?
+10320.0,What is the benefit period - child?
+10330.0,"What is the lens, frames, contacts coisurance?"
+10340.0,"What is the lens, frames, contacts maximum?"
+10350.0,What is the benefit period - adult?
+10360.0,What is the benefit period - child?
+10400.0,What is the dentalcare lives single?
+10410.0,What is the dentalcare  lives family?
+10420.0,What is the dentalcare  rate single?
+10430.0,What is the dentalcare rate family?
+10440.0,What is the dentalcare  monthly premium?
+10450.0,What is the dentalcare premium single?
+10460.0,What is the dentalcare  premium family?
+10461.0,What is the plan coverage?
+10470.0,What is the single deductible?
+10480.0,What is the family deductible?
+10490.0,What is the coinsurance?
+10500.0,What is the basic?
+10510.0,What is the accidental dental?
+10520.0,What is the annual maximum?
+10530.0,What is the basic?
+10540.0,What is the preventative frequency?
+10550.0,What is the scaling units?
+10560.0,What is the oral hygiene instructions?
+10570.0,What is the fee guide year?
+10580.0,What is the additional details?

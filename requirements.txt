@@ -1,0 +1,8 @@
+streamlit 
+langchain-openai 
+PyPDF2 
+langchain-community 
+typing-extensions
+python-dotenv
+faiss-cpu
+openpyxl
